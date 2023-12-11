@@ -8,8 +8,10 @@ Este projeto buscar implementar uma agenda de contatos que possa ser utilizada e
 ## Requisitos de usuário
 
 ### Requisito RU1 - banco de dados de agenda telefônica e de endereço
+O banco de dados deverá ser uma agenda.
 
 ### Requisito RU2 - Prenome
+O banco de dados deverá ter um campo para armazenar o prenome da pessoa.
 
 ### Requisito RU3 - Nome do meio
 
